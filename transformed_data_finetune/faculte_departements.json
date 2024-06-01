@@ -1,0 +1,83 @@
+[
+    {
+        "id": "",
+        "type": "faculty_department",
+        "title": "G\u00c9NIE INFORMATIQUE",
+        "content": "Chef: Pr.EL BRAK Mohamed\nEmail: melbrak@uae.ac.ma",
+        "metadata": {
+            "url": "https://fstt.ac.ma/Portail2023/les-departement/"
+        }
+    },
+    {
+        "id": "",
+        "type": "faculty_department",
+        "title": "G\u00c9NIE CHIMIQUE",
+        "content": "Chef: Pr.CHABBI Mohamed\nEmail: mchabbi@uae.ac.ma",
+        "metadata": {
+            "url": "https://fstt.ac.ma/Portail2023/les-departement/"
+        }
+    },
+    {
+        "id": "",
+        "type": "faculty_department",
+        "title": "SCIENCES DE LA TERRE",
+        "content": "Chef: Pr.BOULAASSAL Hakim\nEmail: h.boulaassal@uae.ac.ma",
+        "metadata": {
+            "url": "https://fstt.ac.ma/Portail2023/les-departement/"
+        }
+    },
+    {
+        "id": "",
+        "type": "faculty_department",
+        "title": "G\u00c9NIE M\u00c9CANIQUE",
+        "content": "Chef: Pr.ELAYACHI Ilham\nEmail: i.elayachi@uae.ac.ma",
+        "metadata": {
+            "url": "https://fstt.ac.ma/Portail2023/les-departement/"
+        }
+    },
+    {
+        "id": "",
+        "type": "faculty_department",
+        "title": "SCIENCES DE LA VIE",
+        "content": "Chef: Pr.HASSANI ZERROUK Mounir\nEmail: mhassani@uae.ac.ma",
+        "metadata": {
+            "url": "https://fstt.ac.ma/Portail2023/les-departement/"
+        }
+    },
+    {
+        "id": "",
+        "type": "faculty_department",
+        "title": "G\u00c9NIE ELECTRIQUE",
+        "content": "Chef: Pr.HADJ BARAKA Ibrahim\nEmail: ihadjbaraka@uae.ac.ma",
+        "metadata": {
+            "url": "https://fstt.ac.ma/Portail2023/les-departement/"
+        }
+    },
+    {
+        "id": "",
+        "type": "faculty_department",
+        "title": "TEC",
+        "content": "Chef: Pr.OUCHEN MOHAMED\nEmail: mouchen@uae.ac.ma",
+        "metadata": {
+            "url": "https://fstt.ac.ma/Portail2023/les-departement/"
+        }
+    },
+    {
+        "id": "",
+        "type": "faculty_department",
+        "title": "PHYSIQUE",
+        "content": "Chef: Pr.AJDOUR Mounia\nEmail: majdour@uae.ac.ma",
+        "metadata": {
+            "url": "https://fstt.ac.ma/Portail2023/les-departement/"
+        }
+    },
+    {
+        "id": "",
+        "type": "faculty_department",
+        "title": "MATH\u00c9MATIQUES",
+        "content": "Chef: Pr.EL HALIMI RACHID\nEmail: r.elhalimi@uae.ac.ma",
+        "metadata": {
+            "url": "https://fstt.ac.ma/Portail2023/les-departement/"
+        }
+    }
+]
