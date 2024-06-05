@@ -4,7 +4,6 @@ import pandas as pd
 import time
 from tqdm import tqdm
 import langchain
-from langchain_openai import OpenAI
 import re
 from typing import List, Tuple
 
